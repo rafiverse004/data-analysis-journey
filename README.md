@@ -7,7 +7,7 @@ My self-paced journey to becoming a Data Analyst, following the IBM Data Analyst
 ## 🗺️ Roadmap
 
 1. **Introduction to Data Analytics**
-2. **Excel Basics for Data Analysis**
+2. **Excel for Data Analysis**
 3. **Data Visualization and Dashboards with Excel and Cognos**
 4. **Python for Data Science, AI & Development**
 5. **Python Project for Data Science**
@@ -23,25 +23,16 @@ My self-paced journey to becoming a Data Analyst, following the IBM Data Analyst
 ## 📚 Learning & Practice
 
 ### 01 — Introduction to Data Analytics
-🔄 In Progress
+✅ Completed
 
-Learning & Practice → Coming Soon
-
-[Text people see](Actual URL)
-
-#### Projects
-
-**Project 01 — Sales Data Analyzer**  
-Python | Pandas | Data Cleaning | Data Analysis
-
-→ [View Project](https://github.com/yourusername/sales-data-analyzer)
+→ Github Repo: [introduction-to-data-analytics](https://github.com/rafiverse004/introduction-to-data-analytics.git)
 
 ---
 
 ### 02 — Excel Basics for Data Analysis
-⏳ Not Started
+✅ Completed
 
-Learning & Practice → Coming Soon
+→ Github Repo: [excel-for-data-analysis]((https://github.com/rafiverse004/excel-for-data-analysis.git)) 
 
 ---
 
@@ -56,6 +47,13 @@ Learning & Practice → Coming Soon
 ⏳ Not Started
 
 Learning & Practice → Coming Soon
+
+#### Projects
+
+**Project 01 — Sales Data Analyzer**  
+Python | Pandas | Data Cleaning | Data Analysis
+
+→ [View Project](https://github.com/rafiverse004/excel-for-data-analysis.git)
 
 ---
 
