@@ -32,7 +32,8 @@ My self-paced journey to becoming a Data Analyst, following the IBM Data Analyst
 ### 02 — Excel Basics for Data Analysis
 ✅ Completed
 
-→ Github Repo: [excel-for-data-analysis](https://github.com/rafiverse004/excel-for-data-analysis.git) 
+→ Github Repo: [Introduction To Excel - Datacamp](https://github.com/rafiverse004/excel-for-data-analysis.git) 
+→ Github Repo: [Data Preparation In Excel - Datacamp](https://github.com/rafiverse004/data-preparation-in-excel.git) 
 
 ---
 
