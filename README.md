@@ -38,6 +38,14 @@ My self-paced journey to becoming a Data Analyst, following the IBM Data Analyst
 
 → Github Repo: [Data Analysis In Excel - Datacamp](https://github.com/rafiverse004/data-analysis-in-excel.git)
 
+#### Projects
+
+**Project 01 — Bike Customer Analytics**  
+
+Excel | Data Cleaning | Data Analysis
+
+→ [View Project](https://github.com/rafiverse004/bike-customer-analytics.git)
+
 ---
 
 ### 03 — Data Visualization and Dashboards with Excel and Cognos
@@ -51,13 +59,6 @@ Learning & Practice → Coming Soon
 ⏳ Not Started
 
 Learning & Practice → Coming Soon
-
-#### Projects
-
-**Project 01 — Sales Data Analyzer**  
-Python | Pandas | Data Cleaning | Data Analysis
-
-→ [View Project](https://github.com/rafiverse004/excel-for-data-analysis.git)
 
 ---
 
