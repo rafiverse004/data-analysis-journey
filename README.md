@@ -1,110 +1,165 @@
 # 📊 Data Analysis Journey
 
-My self-paced journey to becoming a Data Analyst, following the IBM Data Analyst curriculum as a roadmap and learning through free resources, practice, and projects.
+My self-paced journey to becoming a **job-ready Data Analyst**, following a structured learning path built around free resources, hands-on practice, real-world projects, and interview preparation.
+
+The goal is simple:
+
+> **Learn → Practice → Build Projects → Build Portfolio → Prepare for Jobs**
 
 ---
 
 ## 🗺️ Roadmap
 
-1. **Introduction to Data Analytics**
+1. **Data Analyst Foundations**
 2. **Excel for Data Analysis**
-3. **Data Visualization and Dashboards with Excel and Cognos**
-4. **Python for Data Science, AI & Development**
-5. **Python Project for Data Science**
-6. **Databases and SQL for Data Science with Python**
+3. **Tableau for Data Visualization**
+4. **Power BI for Data Visualization & Dashboards**
+5. **Python Fundamentals**
+6. **Web Scraping with Python**
 7. **Python for Data Analysis**
-8. **Python for Data Visualization**
-9. **IBM Data Analyst Capstone Project**
-10. **Generative AI: Enhance your Data Analytics Career**
-11. **Data Analyst Career Guide and Interview Preparation**
+8. **SQL & MySQL for Data Analysis**
+9. **SQL Interview Preparation**
+10. **Cloud & Data Analytics Platforms**
+11. **Portfolio & Career Preparation**
 
 ---
 
 ## 📚 Learning & Practice
 
 ### 01 — Introduction to Data Analytics
-✅ Completed
+
+**Status:** Completed ✅
 
 → Github Repo: [introduction-to-data-analytics](https://github.com/rafiverse004/introduction-to-data-analytics.git)
 
 ---
 
-### 02 — Excel Basics for Data Analysis
-✅ Completed
+### 02 — Excel for Data Analysis
 
-→ Github Repo: [Introduction To Excel - Datacamp](https://github.com/rafiverse004/excel-for-data-analysis.git)
+**Status:** ✅ Completed
 
-→ Github Repo: [Data Preparation In Excel - Datacamp](https://github.com/rafiverse004/data-preparation-in-excel.git)
+#### 📚 Learning & Practice
 
-→ Github Repo: [Data Analysis In Excel - Datacamp](https://github.com/rafiverse004/data-analysis-in-excel.git)
+* **GitHub Repository — Introduction to Excel | DataCamp**
+  → [View Repository](https://github.com/rafiverse004/excel-for-data-analysis.git)
 
-#### Projects
+* **GitHub Repository — Data Preparation in Excel | DataCamp**
+  → [View Repository](https://github.com/rafiverse004/data-preparation-in-excel.git)
 
-**Project 01 — Bike Customer Analytics**  
+* **GitHub Repository — Data Analysis in Excel | DataCamp**
+  → [View Repository](https://github.com/rafiverse004/data-analysis-in-excel.git)
 
-Excel | Data Cleaning | Data Analysis
+### 🚀 Project 01 — Bike Customer Analytics
+
+**Tools:** Excel
+**Skills:** Data Cleaning • Data Analysis
 
 → [View Project](https://github.com/rafiverse004/bike-customer-analytics.git)
 
----
 
-### 03 — Data Visualization and Dashboards with Excel and Cognos
-⏳ Not Started
-
-Learning & Practice → Coming Soon
 
 ---
 
-### 04 — Python for Data Science, AI & Development
-⏳ Not Started
+### 03 — Tableau
 
-Learning & Practice → Coming Soon
-
----
-
-### 05 — Python Project for Data Science
-⏳ Not Started
-
-Project → Coming Soon
+**Status:** ⏳ Not Started
 
 ---
 
-### 06 — Databases and SQL for Data Science with Python
-⏳ Not Started
+### 04 — Power BI
 
-Learning & Practice → Coming Soon
+**Status:** ⏳ Not Started
+
+---
+
+### 05 — Python Fundamentals
+
+**Status:** ⏳ Not Started
+
+---
+
+### 06 — Web Scraping with Python
+
+**Status:** ⏳ Not Started
 
 ---
 
 ### 07 — Python for Data Analysis
-⏳ Not Started
 
-Learning & Practice → Coming Soon
-
----
-
-### 08 — Python for Data Visualization
-⏳ Not Started
-
-Learning & Practice → Coming Soon
+**Status:** ⏳ Not Started
 
 ---
 
-### 09 — IBM Data Analyst Capstone Project
-⏳ Not Started
+### 08 — SQL / MySQL
 
-Project → Coming Soon
-
----
-
-### 10 — Generative AI: Enhance your Data Analytics Career
-⏳ Not Started
-
-Learning & Practice → Coming Soon
+**Status:** ⏳ Not Started
 
 ---
 
-### 11 — Data Analyst Career Guide and Interview Preparation
-⏳ Not Started
+### 09 — SQL Interview Preparation
 
-Learning & Practice → Coming Soon
+**Status:** ⏳ Not Started
+
+---
+
+### 10 — Cloud & Data Analytics Platforms
+
+**Status:** ⏳ Not Started
+
+---
+
+### 11 — Portfolio & Career Preparation
+
+**Status:** ⏳ Not Started
+
+#### Portfolio
+
+* Create a Data Analyst Portfolio Website
+
+#### Resume
+
+* Create a Data Analyst Resume
+
+#### LinkedIn
+
+* LinkedIn Job Search & Networking Tips
+
+### Certification
+
+* Data Analyst Bootcamp Certification
+
+---
+
+# 🧠 Skills I'm Building
+
+### 📊 Data Analysis
+
+`Data Cleaning` • `Data Preparation` • `EDA` • `Data Analysis`
+
+### 📗 Excel
+
+`Formulas` • `XLOOKUP` • `Pivot Tables` • `Charts` • `Conditional Formatting`
+
+### 🗄️ SQL
+
+`MySQL` • `Joins` • `Subqueries` • `CTEs` • `Window Functions` • `Data Cleaning` • `EDA`
+
+### 🐍 Python
+
+`Python` • `Pandas` • `Web Scraping` • `APIs` • `Data Cleaning` • `EDA`
+
+### 📈 Data Visualization
+
+`Power BI` • `Tableau` • `Excel`
+
+### ☁️ Cloud
+
+`Azure` • `AWS`
+
+### 💼 Career
+
+`GitHub` • `Portfolio` • `Resume` • `LinkedIn` • `SQL Interview Preparation`
+
+---
+
+⭐ **This repository will grow with me throughout my journey from learning Data Analytics to becoming a job-ready Data Analyst.**
