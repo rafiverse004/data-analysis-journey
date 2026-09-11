@@ -11,16 +11,17 @@ The goal is simple:
 ## 🗺️ Roadmap
 
 1. **Data Analyst Foundations**
-2. **Excel for Data Analysis**
-3. **Tableau for Data Visualization**
-4. **Power BI for Data Visualization & Dashboards**
-5. **Python Fundamentals**
-6. **Web Scraping with Python**
-7. **Python for Data Analysis**
-8. **SQL & MySQL for Data Analysis**
-9. **SQL Interview Preparation**
-10. **Cloud & Data Analytics Platforms**
-11. **Portfolio & Career Preparation**
+2. **SQL & MySQL for Data Analysis**
+3. **Excel for Data Analysis**
+4. **Tableau for Data Visualization**
+5. **Power BI for Data Visualization & Dashboards**
+6. **Python Fundamentals**
+7. **Web Scraping with Python**
+8. **Python for Data Analysis**
+9. **Portfolio & Resume**
+10. **SQL Interview Preparation**
+11. **Cloud & Data Analytics Platforms**
+12. **LinkedIn & Certification**
 
 ---
 
@@ -34,7 +35,13 @@ The goal is simple:
 
 ---
 
-### 02 — Excel for Data Analysis
+### 02 — SQL / MySQL
+
+**Status:** ⏳ Not Started
+
+---
+
+### 03 — Excel for Data Analysis
 
 **Status:** ✅ Completed
 
@@ -56,59 +63,39 @@ The goal is simple:
 
 → [View Project](https://github.com/rafiverse004/bike-customer-analytics.git)
 
-
-
 ---
 
-### 03 — Tableau
+### 04 — Tableau
 
 **Status:** ⏳ Not Started
 
 ---
 
-### 04 — Power BI
+### 05 — Power BI
 
 **Status:** ⏳ Not Started
 
 ---
 
-### 05 — Python Fundamentals
+### 06 — Python Fundamentals
 
 **Status:** ⏳ Not Started
 
 ---
 
-### 06 — Web Scraping with Python
+### 07 — Web Scraping with Python
 
 **Status:** ⏳ Not Started
 
 ---
 
-### 07 — Python for Data Analysis
+### 08 — Python for Data Analysis
 
 **Status:** ⏳ Not Started
 
 ---
 
-### 08 — SQL / MySQL
-
-**Status:** ⏳ Not Started
-
----
-
-### 09 — SQL Interview Preparation
-
-**Status:** ⏳ Not Started
-
----
-
-### 10 — Cloud & Data Analytics Platforms
-
-**Status:** ⏳ Not Started
-
----
-
-### 11 — Portfolio & Career Preparation
+### 09 — Portfolio & Resume
 
 **Status:** ⏳ Not Started
 
@@ -119,6 +106,24 @@ The goal is simple:
 #### Resume
 
 * Create a Data Analyst Resume
+
+---
+
+### 10 — SQL Interview Preparation
+
+**Status:** ⏳ Not Started
+
+---
+
+### 11 — Cloud & Data Analytics Platforms
+
+**Status:** ⏳ Not Started
+
+---
+
+### 12 — LinkedIn & Certification
+
+**Status:** ⏳ Not Started
 
 #### LinkedIn
 
